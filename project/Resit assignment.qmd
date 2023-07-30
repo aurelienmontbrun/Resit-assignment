@@ -1,0 +1,34 @@
+---
+title: "Resit assignment:"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# Situation of ***Ireland*** and 9 other countries regarding the **COVID-19 pandemic**
+
+In this expert report for the National Public Health Emergency Team (NPHET), we analysed data relating to the COVID-19 pandemic. Here we compare **Ireland**'s situation with that of 9 other countries: Canada, Czech Republic, Feroe Islands, Gibraltar, Isle of Man, Japan, Nepal, Russia and Singapore.
+
+Below are some graphs explaining our country's situation according to certain indicators.
+
+## Scatter plot with a linear regression line :
+
+## ![Figure 1 : scatterplot with a linear regression](Scatter%20plot.png "Figure 1 : scatterplot with a linear regression"){width="12cm"}
+
+The scatter plot shows a correlation between the number of people vaccinated and the fall in mortality, particularly in Russia. We can obtain such a curve for Russia compared with other countries because of the difference in population, which accentuates this correlation on this graph. In Ireland, the number of people vaccinated and the number of deaths are much lower because of the size of the population.
+
+## Bar chart :
+
+![Figure 2: Bar chart](Bar%20plot%202.png){width="14.2cm"}
+
+This bar chart allows us to normalise the number of deaths in each country, as it shows the number of deaths per million inhabitants. We can therefore conclude that Ireland has a lower mortality rate than the Czech Republic, Gibraltar and Russia. However, the number of Irish deaths per million population is slightly higher than in Canada and the Isle of Man. It is worth noting the low number of deaths in Japan in this example.
+
+## World Map : 
+
+![Figure 3: World map](world%20map.png)
+
+## Time-series chart :
+
+![Figure 4: Time-series chart](Time-series%20chart.png)
